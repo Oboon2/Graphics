@@ -1,0 +1,12 @@
+﻿  GameTimer.cpp
+c:\oboon2\graphics\dxengine\dxengine15_gametimer\engine\gametimer.cpp(88): error C2660: '_itow_s': 함수는 3개의 매개 변수를 사용하지 않습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h(50): note: '_itow_s' 선언을 참조하십시오.
+c:\oboon2\graphics\dxengine\dxengine15_gametimer\engine\gametimer.cpp(96): error C2440: '<function-style-cast>': 'LPCTSTR'에서 'std::wstring'(으)로 변환할 수 없습니다.
+  c:\oboon2\graphics\dxengine\dxengine15_gametimer\engine\gametimer.cpp(96): note: 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+c:\oboon2\graphics\dxengine\dxengine15_gametimer\engine\gametimer.cpp(97): error C2676: 이항 '+': 'std::wstring'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+c:\oboon2\graphics\dxengine\dxengine15_gametimer\engine\gametimer.cpp(98): error C2664: 'BOOL SetWindowTextA(HWND,LPCSTR)': 인수 2을(를) 'const _Elem *'에서 'LPCSTR'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Elem=wchar_t
+          ]
+  c:\oboon2\graphics\dxengine\dxengine15_gametimer\engine\gametimer.cpp(98): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.

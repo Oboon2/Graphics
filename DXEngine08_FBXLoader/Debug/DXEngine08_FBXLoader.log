@@ -1,0 +1,16 @@
+﻿  compilation object save succeeded; see C:\Oboon2\Graphics\DXEngine\Debug\PS.cso
+  compilation object save succeeded; see C:\Oboon2\Graphics\DXEngine\Debug\VS.cso
+  AppWindow.cpp
+  DXApp.cpp
+  DXUtil.cpp
+  Engine.cpp
+  MainApp.cpp
+  Mesh.cpp
+  PixelShader.cpp
+  Shader.cpp
+  Texture.cpp
+  Vertex.cpp
+  VertexShader.cpp
+  FBX_Loader.cpp
+  코드를 생성하고 있습니다...
+  DXEngine08_FBXLoader.vcxproj -> C:\Oboon2\Graphics\DXEngine\Debug\DXEngine08_FBXLoader.exe
